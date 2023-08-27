@@ -1,4 +1,4 @@
-number,competence,warmth,discomfort,PE,EE,SI,age,education,gender,injuries,memory,hearing,glasses,robot,correct,robot1,illustrated,correct1,0.582333333,0.197968432,attitudeN,attitudeP
+number,Scores,warmth,discomfort,PE,EE,SI,age,education,gender,injuries,memory,hearing,glasses,robot,correct,robot1,illustrated,correct1,0.582333333,0.197968432,attitudeN,attitudeP
 1,4.75,5,1.25,4.33,5,5,46,,F,N,N,N,N,N,0.682,N,N,0.682,0.6451,0.209098302,Positive,Positive
 2,3.25,4,1.25,4.67,5,3,45,,F,N,N,N,N,N,0.682,N,N,0.682,,,Positive,Positive
 3,4.5,5,2.25,4,3.5,5,51,,F,N,N,N,N,N,0.188,N,N,0.188,,,Positive,Positive
